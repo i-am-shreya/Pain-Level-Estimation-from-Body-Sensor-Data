@@ -4,7 +4,8 @@ Automatic chronic pain assessment and pain intensity estimation has been attract
 
 * [PLAAN: Pain Level Assessment with Anomaly-detection based Network](https://link.springer.com/article/10.1007/s12193-020-00362-8)
 
-![Overview of the proposed PLAAN network. Here, data processing refers to the window based temporal segment selection process. For the estimation task, either pain intensity or protective behaviour is used](/figs/emopain.png) 
+![pipeline_plaan](/figs/emopain.png) 
+Overview of the proposed PLAAN network. Here, data processing refers to the window based temporal segment selection process. For the estimation task, either pain intensity or protective behaviour is used
 
 * [LSTM-DNN based Approach for Pain Intensity and Protective Behaviour Prediction](https://ieeexplore.ieee.org/abstract/document/9320192)
 ## Dataset
