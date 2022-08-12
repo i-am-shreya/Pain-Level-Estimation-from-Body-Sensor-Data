@@ -13,6 +13,8 @@ Overview of the proposed PLAAN network. Here, data processing refers to the wind
 Overview of the proposed network. Here, data processing refers to the window based temporal chunk selection process. For the prediction task,
 either Task 2 (pain intensity label) or Task 3 (protective behaviour) is used.
 
+![ROC1](/figs/ROC_pain.png) [ROC2](/figs/ROC_protective.png)
+ROC curves of DNN-LSTM networks for pain intensity (left) and protective behaviour estimation (right), respectively.
 
 ## Dataset
 The dataset is the part of Emopain challenge FG 2020. [Website](https://github.com/Mvrjustid/EmoPainChallenge2020) 
