@@ -43,4 +43,4 @@ If you find the paper/code useful for your research, please consider citing our 
 ```
  
 ## Contact
-- <a href="https://sites.google.com/view/shreyaghosh/home">Shreya Ghosh</a> and <a href="https://scholar.google.com/citations?hl=en&user=omcJ_bQAAAAJ&view_op=list_works&sortby=pubdate">Dr Tarique Anwar</a>.
+- <a href="https://sites.google.com/view/shreyaghosh/home">Shreya Ghosh</a> and <a href="https://scholar.google.com/citations?hl=en&user=omcJ_bQAAAAJ&view_op=list_works&sortby=pubdate">Dr Jyoti Joshi</a>.
